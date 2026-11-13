@@ -27,16 +27,16 @@ I've also been drawing, traditionally and digitally, for over seven years, so I 
 ### Toolbox
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,py,go,java,cpp" alt="TypeScript, JavaScript, Python, Go, Java, C++" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,html,css" alt="TypeScript, JavaScript, Python, Java, C++, HTML, CSS" />
 
 **Frontend and mobile**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind" alt="React, Next.js, Electron, Tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,electron,tailwind" alt="React, Next.js, Angular, Electron, Tailwind" />
 
 **Backend and data**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase" alt="Node.js, Supabase, Postgres, Firebase" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,supabase,postgres,firebase" alt="Go, Node.js, Supabase, Postgres, Firebase" />
 
 **Infra**<br/>
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,vercel" alt="AWS, Terraform, Docker, Vercel" />
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,vercel" alt="AWS, Azure, Terraform, Docker, Vercel" />
 
 ---
 
