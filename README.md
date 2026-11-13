@@ -26,10 +26,17 @@ I've also been drawing, traditionally and digitally, for over seven years, so I 
 
 ### Toolbox
 
-- **Languages:** TypeScript, JavaScript, Python, Go, Java, C++, SQL
-- **Frontend and mobile:** React, Next.js, React Native / Expo, Electron, Tailwind
-- **Backend and data:** Node.js, Supabase / Postgres, Firebase, DuckDB
-- **Infra:** AWS, Terraform, Docker, Vercel
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,go,java,cpp" alt="TypeScript, JavaScript, Python, Go, Java, C++" />
+
+**Frontend and mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind" alt="React, Next.js, Electron, Tailwind" />
+
+**Backend and data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase" alt="Node.js, Supabase, Postgres, Firebase" />
+
+**Infra**<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,vercel" alt="AWS, Terraform, Docker, Vercel" />
 
 ---
 
