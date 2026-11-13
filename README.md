@@ -33,7 +33,7 @@ I've also been drawing, traditionally and digitally, for over seven years, so I 
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,electron,tailwind" alt="React, Next.js, Angular, Electron, Tailwind" />
 
 **Backend and data**<br/>
-<img src="https://skillicons.dev/icons?i=go,nodejs,supabase,postgres,firebase" alt="Go, Node.js, Supabase, Postgres, Firebase" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,supabase,postgres,mysql,firebase" alt="Go, Node.js, Supabase, Postgres, MySQL, Firebase" /> <img src="assets/sqlserver.svg" alt="SQL Server (SSMS)" title="SQL Server (SSMS)" />
 
 **Infra**<br/>
 <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,vercel" alt="AWS, Azure, Terraform, Docker, Vercel" /> <img src="assets/railway.svg" alt="Railway" title="Railway" />
