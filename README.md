@@ -36,7 +36,7 @@ I've also been drawing, traditionally and digitally, for over seven years, so I 
 <img src="https://skillicons.dev/icons?i=go,nodejs,supabase,postgres,firebase" alt="Go, Node.js, Supabase, Postgres, Firebase" />
 
 **Infra**<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,vercel" alt="AWS, Azure, Terraform, Docker, Vercel" />
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,vercel" alt="AWS, Azure, Terraform, Docker, Vercel" /> <img src="assets/railway.svg" alt="Railway" title="Railway" />
 
 ---
 
