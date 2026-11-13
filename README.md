@@ -1,18 +1,19 @@
 # Kimani McLeish
 
 Software engineer and Computer Science student at the University of Technology, Jamaica, based in Kingston.
-I build apps around maps and real places, plus tools that make my own dev setup nicer to live in.
+I work on data pipelines, databases and full-stack products, plus tools that make my own dev setup nicer to live in.
 I've also been drawing, traditionally and digitally, for over seven years, so I care about how things look as much as how they work.
 
-[Portfolio](https://kimanimcleish.vercel.app) · [LinkedIn](https://www.linkedin.com/in/kimani-mcleish-9249802a1/) · [Email](mailto:kimanimac2005@gmail.com)
+[Portfolio](https://kimanimcleish.com) · [LinkedIn](https://www.linkedin.com/in/kimani-mcleish-9249802a1/) · [Email](mailto:kimanimac2005@gmail.com)
 
 ---
 
 ### Now
 
-- **[Cite](https://www.joincite.com)**: a live campus map for UTech, UWI Mona and Kingston. It shows what's open, what's busy and what's flooded, and every report expires on its own.
-- **Tabi**: a map-based app where nearby strangers meet through small, time-boxed side quests. Built with Expo, Go and Supabase.
-- **Data engineering at Intellibus**: pipelines for geospatial place data.
+- **[Cite](https://www.joincite.com)** (founder & lead engineer): a live guide to UTech, UWI Mona and Kingston showing what's open, what's busy and what's happening, fed by an automated event-ingestion pipeline.
+- **[Tabi](https://jointabi.com)**: a social app where nearby people meet through small, time-boxed side quests. Go and PostgreSQL/PostGIS backend, Expo app.
+- **Intellibus**: software engineer building data pipelines and web platform features.
+- **Sagicor Innovation Lab**: leading cybersecurity and infrastructure across 14 AWS servers and 5 production databases.
 
 ### Selected work
 
@@ -40,4 +41,4 @@ I've also been drawing, traditionally and digitally, for over seven years, so I 
 
 ---
 
-<sub>Always happy to talk about maps, design systems, or anything Riot Games.</sub>
+<sub>“This I want to believe implicitly: Man was born for love and revolution.” ― Osamu Dazai</sub>
